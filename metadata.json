@@ -1,0 +1,13 @@
+{
+  "name": "tkh-x2go",
+  "version": "0.1.0",
+  "author": "st01tkh",
+  "summary": "X2Go Server",
+  "license": "Apache Version 2.0",
+  "source": "https://github.com/st01tkh/puppet-x2go",
+  "project_page": "https://github.com/st01tkh/puppet-x2go",
+  "issues_url": "https://github.com/st01tkh/puppet-x2go",
+  "description": "Installs X2Go Server on Ubuntu Trusty (for now)",
+  "types": [],
+  "dependencies": []
+}
